@@ -35,6 +35,6 @@ jobs:
           startsWith(github.repository, 'it985') && 
           startsWith(github.ref, 'refs/tags/')
         env:
-          zhihu-trending-hot: ${{ secrets.zhihu-trending-hot }}
+          zhihutrendinghot: ${{ secrets.zhihutrendinghot }}
         with:
           draft: true
