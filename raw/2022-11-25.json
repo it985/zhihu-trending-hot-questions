@@ -83,7 +83,10 @@
     "url": "https://www.zhihu.com/question/568809008",
     "title": "如何看待胡锡进思考乌鲁木齐火灾，称「该市超长封控超过了民众承受力」？有哪些警示作用？"
   },
-  { "url": "https://www.zhihu.com/question/23612599", "title": "怎样才能考上教师编制？" },
+  {
+    "url": "https://www.zhihu.com/question/23612599",
+    "title": "怎样才能考上教师编制？"
+  },
   {
     "url": "https://www.zhihu.com/question/362988333",
     "title": "为什么我每天疯狂记单词，但仍然记不住，死背单词真的只是浪费时间吗？如何最快、最高效背单词？"
@@ -372,7 +375,10 @@
     "url": "https://www.zhihu.com/question/563502343",
     "title": "2023 年 2 月起，微软 Win10 系统将永久禁用 IE11 ，禁用的原因是什么？"
   },
-  { "url": "https://www.zhihu.com/question/21684430", "title": "足球比赛为什么要有越位？" },
+  {
+    "url": "https://www.zhihu.com/question/21684430",
+    "title": "足球比赛为什么要有越位？"
+  },
   {
     "url": "https://www.zhihu.com/question/567937155",
     "title": "看了最近江西胡鑫宇失踪的消息，还没有调查出结果，竟又发现全国各地多起青少年失踪案件，是怎么回事啊？"
@@ -573,7 +579,10 @@
     "url": "https://www.zhihu.com/question/568162918",
     "title": "95 后宝妈将宝宝放进手提篮被网友质疑不安全，如何看待此事？此类「婴儿专用品」是否存在安全隐患？"
   },
-  { "url": "https://www.zhihu.com/question/564642419", "title": "一个人独来独往好吗？" },
+  {
+    "url": "https://www.zhihu.com/question/564642419",
+    "title": "一个人独来独往好吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/568387310",
     "title": "有媒体报道连花清瘟「断货」后出现涨价，有药店售价涨超 50％ ，具体情况如何？"
@@ -742,5 +751,8 @@
     "url": "https://www.zhihu.com/question/566994915",
     "title": "如何看待主办方所宣称的「卡塔尔世界杯是人工智能含量最高的一次世界杯」？"
   },
-  { "url": "https://www.zhihu.com/question/566804613", "title": "你驾照考了几次?" }
+  {
+    "url": "https://www.zhihu.com/question/566804613",
+    "title": "你驾照考了几次?"
+  }
 ]
