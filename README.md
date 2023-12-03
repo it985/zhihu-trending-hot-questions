@@ -6,19 +6,19 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 04 2023 04:00:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 04 2023 05:00:42 GMT+0800 (China Standard Time) -->
 
 1. [官方回应五月天假唱风波称「将了解」，若假唱属实，主办方将受到哪些处罚？如何看待演唱会假唱？](https://www.zhihu.com/question/633116674)
 1. [知名餐饮品牌正新鸡排超 1 万家门店关闭，门店一度是肯德基中国 3 倍，哪些原因导致的？](https://www.zhihu.com/question/633100779)
 1. [过境至深圳的香港民众持续增加，媒体报道港人「爆买」深圳各大超市，如何看待这一现象？](https://www.zhihu.com/question/632097505)
-1. [美副总统哈里斯承认「太多无辜巴勒斯坦人被杀害」，释放了哪些信号？若失去美方支持，巴以局势将如何发展？](https://www.zhihu.com/question/633118015)
-1. [曹操生性多疑，连他的儿子曹丕见他都要事先报备，为什么典韦却不用，甚至可以披甲带刀面见？](https://www.zhihu.com/question/632775346)
-1. [经过阿里大规模服务宕机，滴滴宕机之后大厂高管能意识到码农的价值吗?](https://www.zhihu.com/question/632927474)
 1. [C 罗遭到多位虚拟货币投资者的集体诉讼，被索赔超 10 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/633120735)
+1. [经过阿里大规模服务宕机，滴滴宕机之后大厂高管能意识到码农的价值吗?](https://www.zhihu.com/question/632927474)
+1. [美副总统哈里斯承认「太多无辜巴勒斯坦人被杀害」，释放了哪些信号？若失去美方支持，巴以局势将如何发展？](https://www.zhihu.com/question/633118015)
 1. [造成碳酸锂期货续创新低的原因是什么？](https://www.zhihu.com/question/631400082)
 1. [未来什么时候手机的性能可以取代电脑？](https://www.zhihu.com/question/627567122)
 1. [为什么要给孩子科普？](https://www.zhihu.com/question/322224934)
 1. [有哪些食物适合当下酒菜？](https://www.zhihu.com/question/619447732)
+1. [曹操生性多疑，连他的儿子曹丕见他都要事先报备，为什么典韦却不用，甚至可以披甲带刀面见？](https://www.zhihu.com/question/632775346)
 1. [以军称哈马斯违反临时停火协议，已恢复军事打击行动，巴以冲突还将如何发展？](https://www.zhihu.com/question/632790367)
 1. [为什么人们游戏里喜欢挑战性设计，而现实中更喜欢呆在舒适圈里？](https://www.zhihu.com/question/616225074)
 1. [梅西称大概率不参加 2026 年世界杯，39 岁不适合参加世界杯，很后悔此前挑衅范加尔，如何看待此事？](https://www.zhihu.com/question/632951261)
