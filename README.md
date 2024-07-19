@@ -6,7 +6,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 19 2024 10:00:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 10:00:19 GMT+0800 (China Standard Time) -->
 
 1. [单休已成职场用工新要求，「大小周」成 HR 最大让步 ，该制度合理合法吗？如何看待当前加班普遍化现象？](https://www.zhihu.com/question/661930056)
 1. [爱奇艺就限制投屏案提起上诉，称「没有义务永久、免费提供高清晰投屏服务」，如何看待这一回应？](https://www.zhihu.com/question/661872387)
